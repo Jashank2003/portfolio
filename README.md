@@ -2,6 +2,8 @@
 
 This is my personal portfolio website, showcasing my projects, skills, and experiences. The portfolio is built using HTML, CSS, and JavaScript.
 
+![Screenshot 2023-06-08 165620](https://github.com/Jashank2003/portfolio/assets/91665950/14a029fe-e8e3-41db-856e-f16e7a84d8b5)
+
 
 ## Demo
 
